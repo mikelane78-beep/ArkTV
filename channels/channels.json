@@ -52,13 +52,12 @@
     },
  {        "name": "HallmarkDrama.us@SD",
  "url": "https://tvpass.org/live/HallmarkDrama/hd"
-    },"
+    },
      {        "name": "HallmarkMoviesMysteries.us@East",
  "url": "https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd"
     },
  {        "name": "IFC.us@East",
  "url": "https://tvpass.org/live/IFCEast/hd"
-    },
     },
  {        "name": "KCBSDT1.us@SD",
  "url": "https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd"
@@ -77,7 +76,6 @@
     },
  {        "name": "Logo.us@East",
  "url": "https://tvpass.org/live/LogoEast/hd"
-    },
     },
  {        "name": "MSGPlus.us@SD",
  "url": "https://tvpass.org/live/msg-plus/hd"
